@@ -1,53 +1,51 @@
-<h2 align="left">
-  Hi there! I’m Ana - Mechatronics Engineering Student at USP & FAPESP Undergraduate Research Fellow <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="25px">
-</h2>
+<!-- Animated Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=720&lines=Mechatronics+Engineering+Student+at+USP;FAPESP+Undergraduate+Researcher;Machine+Learning+%26+Scientific+Computing" alt="Typing SVG" />
+</div>
+
+<h1 align="center">Hi there! I'm Ana Carolina 👋</h1>
+
+<p align="center">
+  Exploring <b>engineering, data science, and scientific research</b>.
+  <br><br>
+  <a href="https://www.linkedin.com/in/anacarolinaosello/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="http://lattes.cnpq.br/4412815359081407"><img src="https://img.shields.io/badge/Lattes_CV-0055A4?style=for-the-badge" alt="Lattes CV" /></a>
+  <!-- <br><br>
+  <img src="https://komarev.com/ghpvc/?username=anaosello&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" /> -->
+</p>
+
+---
 
 ### 🔍 About Me
 
-* 🤖 Mechatronics Engineering student at the **São Carlos School of Engineering - University of São Paulo (EESC/USP)** and **FAPESP Undergraduate Research Fellow**, working on **nonlinear resonators with Shape Memory Alloys (SMA)** for applications in **smart metamaterials**
-
-* 📊 Pursuing a Special Studies Certificate in **Data Science** at **ICMC/USP**, with experience in **machine learning for scientific applications**, including CNN-based validation of Sérsic profile fitting in galaxy images from the **S-PLUS survey**
-
----
-
-### 🧰 Tech Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="30" height="30"/>
-</p>
-
-
-**Tools**: Jupyter Notebook • LaTeX/Overleaf
+- 🎓 **Education:** Mechatronics Engineering student at **USP**, also pursuing a Data Science certificate at **ICMC/USP**.
+- 🔬 **Research:** **FAPESP Undergraduate Research Fellow**, studying nonlinear resonators with shape memory alloys using computational modeling and machine learning.
+- 🇧🇪 **Research Abroad:** **BEPE/FAPESP visiting researcher at KU Leuven (2026)**, working on data-driven system identification with **PySINDy** and **PySR**.
+- 🌌 **AI for Science:** Applying machine learning to galaxy image analysis at **IAG/USP**.
 
 ---
 
-### 🗣️ Languages
+### 💻 Technical Skills
 
-🇧🇷 Portuguese (Native) • 🇺🇸 English (Advanced - C1)
-
----
-
-### 🔗 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/anacarolinaosello/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn"/>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,sklearn,git,github" alt="Tech stack" />
   </a>
+</div>
 
-  <a href="http://lattes.cnpq.br/4412815359081407" target="_blank">
-    <img src="https://img.shields.io/badge/Lattes-0055A4?style=for-the-badge&logo=readme&logoColor=white" height="40" alt="Lattes"/>
-  </a>
-</p>
+<br>
 
+- **Scientific Computing & ML:** Python · MATLAB/Octave · NumPy · Pandas · Scikit-learn · PyTorch · TensorFlow/Keras
+- **Research Tools:** PySINDy · PySR · Jupyter · Git · LaTeX
 
 ---
 
-<details>
-  <summary>💻 GitHub Stats</summary>
-  <br>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=anaosello&show_icons=true&hide_border=true&theme=dracula" alt="GitHub Stats" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaosello&layout=compact&hide_border=true&theme=dracula" alt="Top Langs" />
-</details>
+### 🌍 Languages 
+
+- **Languages:** 🇧🇷 Portuguese (Native) · 🇺🇸 English (Advanced)
+
+---
+
+### 🏅 Awards
+
+- **Research & Recognition:** BEPE/FAPESP scholarship (KU Leuven, 2026) · Research published at the 10th International Symposium on Solid Mechanics (2026) · PoliSat team, 1st place in the CubeSat category at the Latin American Space Challenge (2023)
